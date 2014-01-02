@@ -5,7 +5,8 @@
   "keywords": [
     "hydroplugin",
     "hydro",
-    "clean directories"
+    "phantomjs",
+    "ghost driver"
   ],
   "main": "./index.js",
   "homepage": "https://github.com/hydrojs/hydro-ghostd",
