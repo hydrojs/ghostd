@@ -17,7 +17,7 @@ Config:
 hydro.set({
   plugins: ['hydro-ghostd'],
   ghostd: {
-    port: 9003 // Web Driver port, default: 9003, optional
+    port: 9003 // Ghost Driver port, default: 9003, optional
   }
 });
 ```
