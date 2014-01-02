@@ -1,0 +1,35 @@
+{
+  "name": "hydro-ghostd",
+  "version": "0.0.0",
+  "description": "PhantomJS Ghost Driver launcher for hydro",
+  "keywords": [
+    "hydroplugin",
+    "hydro",
+    "clean directories"
+  ],
+  "main": "./index.js",
+  "homepage": "https://github.com/hydrojs/hydro-ghostd",
+  "scripts": {
+    "test": "hydro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hydrojs/hydro-ghostd"
+  },
+  "peerDependencies": {
+    "hydro": "0.x"
+  },
+  "devDependencies": {
+    "coveralls": "~2.3.0",
+    "istanbul": "~0.1.46",
+    "hydro": "*",
+    "hydro-simple": "*",
+    "wd": "~0.2.8",
+    "phantomjs": "~1.9.2-6"
+  },
+  "author": "Veselin Todorov <hi@vesln.com>",
+  "license": "MIT",
+  "dependencies": {
+    "seltron": "0.0.1"
+  }
+}
